@@ -7,6 +7,7 @@
 	<meta charset="UTF-8">
 	<title>INDEX</title>
 </head>
+
 <body>
 	<s:form action="HelloStrutsAction">
 		<s:submit value="HelloStruts"/>
